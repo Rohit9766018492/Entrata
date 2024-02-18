@@ -2,72 +2,72 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-17T20:03:12 IST" name="Default suite" finished-at="2024-02-17T20:05:05 IST" duration-ms="113004">
+  <suite started-at="2024-02-18T15:02:01 IST" name="Suite" finished-at="2024-02-18T15:02:58 IST" duration-ms="56952">
     <groups>
     </groups>
-    <test started-at="2024-02-17T20:03:12 IST" name="Default test" finished-at="2024-02-17T20:05:05 IST" duration-ms="113004">
+    <test started-at="2024-02-18T15:02:01 IST" name="Test" finished-at="2024-02-18T15:02:58 IST" duration-ms="56952">
       <class name="Entrata.TestClass">
-        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:12 IST" name="activateBrowser" finished-at="2024-02-17T20:03:21 IST" duration-ms="8988" status="PASS">
+        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:01 IST" name="activateBrowser" finished-at="2024-02-18T15:02:12 IST" duration-ms="10738" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- activateBrowser -->
-        <test-method signature="TestVerifyEnrtataLogo()[pri:1, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:21 IST" name="TestVerifyEnrtataLogo" finished-at="2024-02-17T20:03:21 IST" duration-ms="56" status="PASS">
+        <test-method signature="TestVerifyEnrtataLogo()[pri:1, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:12 IST" name="TestVerifyEnrtataLogo" finished-at="2024-02-18T15:02:12 IST" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestVerifyEnrtataLogo -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:21 IST" name="closeBrowser" finished-at="2024-02-17T20:03:22 IST" duration-ms="318" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:12 IST" name="closeBrowser" finished-at="2024-02-18T15:02:12 IST" duration-ms="527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:22 IST" name="activateBrowser" finished-at="2024-02-17T20:03:29 IST" duration-ms="7262" status="PASS">
+        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:12 IST" name="activateBrowser" finished-at="2024-02-18T15:02:22 IST" duration-ms="9494" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- activateBrowser -->
-        <test-method signature="testVerifyAllOptionVisibleInHeaderBar()[pri:2, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:29 IST" name="testVerifyAllOptionVisibleInHeaderBar" finished-at="2024-02-17T20:03:29 IST" duration-ms="171" status="PASS">
+        <test-method signature="testVerifyAllOptionVisibleInHeaderBar()[pri:2, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:22 IST" name="testVerifyAllOptionVisibleInHeaderBar" finished-at="2024-02-18T15:02:22 IST" duration-ms="240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testVerifyAllOptionVisibleInHeaderBar -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:29 IST" name="closeBrowser" finished-at="2024-02-17T20:03:29 IST" duration-ms="324" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:22 IST" name="closeBrowser" finished-at="2024-02-18T15:02:22 IST" duration-ms="412" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:29 IST" name="activateBrowser" finished-at="2024-02-17T20:03:58 IST" duration-ms="28394" status="PASS">
+        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:22 IST" name="activateBrowser" finished-at="2024-02-18T15:02:30 IST" duration-ms="8162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- activateBrowser -->
-        <test-method signature="testVerifyBaseCampFuctionality()[pri:3, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:03:58 IST" name="testVerifyBaseCampFuctionality" finished-at="2024-02-17T20:04:06 IST" duration-ms="8603" status="PASS">
+        <test-method signature="testVerifyBaseCampFuctionality()[pri:3, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:30 IST" name="testVerifyBaseCampFuctionality" finished-at="2024-02-18T15:02:38 IST" duration-ms="7401" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testVerifyBaseCampFuctionality -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:04:06 IST" name="closeBrowser" finished-at="2024-02-17T20:04:07 IST" duration-ms="407" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:38 IST" name="closeBrowser" finished-at="2024-02-18T15:02:38 IST" duration-ms="346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:04:07 IST" name="activateBrowser" finished-at="2024-02-17T20:04:33 IST" duration-ms="26422" status="PASS">
+        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:38 IST" name="activateBrowser" finished-at="2024-02-18T15:02:47 IST" duration-ms="8386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- activateBrowser -->
-        <test-method signature="testVerifyPorductElements()[pri:4, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:04:33 IST" name="testVerifyPorductElements" finished-at="2024-02-17T20:04:35 IST" duration-ms="1403" status="PASS">
+        <test-method signature="testVerifyPorductElements()[pri:4, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:47 IST" name="testVerifyPorductElements" finished-at="2024-02-18T15:02:48 IST" duration-ms="1607" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testVerifyPorductElements -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:04:35 IST" name="closeBrowser" finished-at="2024-02-17T20:04:35 IST" duration-ms="434" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:48 IST" name="closeBrowser" finished-at="2024-02-18T15:02:49 IST" duration-ms="329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:04:35 IST" name="activateBrowser" finished-at="2024-02-17T20:05:05 IST" duration-ms="29717" status="PASS">
+        <test-method is-config="true" signature="activateBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:49 IST" name="activateBrowser" finished-at="2024-02-18T15:02:57 IST" duration-ms="8363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- activateBrowser -->
-        <test-method signature="testVerifyBottomBar()[pri:5, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:05:05 IST" name="testVerifyBottomBar" finished-at="2024-02-17T20:05:05 IST" duration-ms="170" status="PASS">
+        <test-method signature="testVerifyBottomBar()[pri:5, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:57 IST" name="testVerifyBottomBar" finished-at="2024-02-18T15:02:57 IST" duration-ms="239" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testVerifyBottomBar -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-17T20:05:05 IST" name="closeBrowser" finished-at="2024-02-17T20:05:05 IST" duration-ms="283" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Entrata.TestClass@34b7ac2f]" started-at="2024-02-18T15:02:57 IST" name="closeBrowser" finished-at="2024-02-18T15:02:58 IST" duration-ms="553" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- Entrata.TestClass -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
