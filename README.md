@@ -1,6 +1,7 @@
 **Name of Project:** "Entrata"
 
 **Description:**
+  
   This repository is about to test the entrata web application which covers the various functional scenarios.
   We used **Selenium** with **JAVA, Maven** along with the **TestNG** to develop this framework. Also used different concepts like **Page Object Model (POM)** and **OOPS**.  
 
